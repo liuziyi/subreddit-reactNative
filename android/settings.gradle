@@ -1,0 +1,3 @@
+rootProject.name = 'subreddit'
+
+include ':app'
